@@ -7,5 +7,5 @@
 #### use case - benefits - examples of builtin modules - packages
 
 #### OOP code along diagram
-![](C:\Users\ahskhan\PycharmProject\eng130_opp\images\OOP_python.png)
+![](https://github.com/khanmaster/eng130_oop/blob/main/images/OOP_python.png)
 
